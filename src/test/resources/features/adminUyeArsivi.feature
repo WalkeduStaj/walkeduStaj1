@@ -1,4 +1,4 @@
-@JenkinsReport
+@smokeinstructorlogin
 Feature: Admin Uye Arsivi sayfasina iliskin testler
 
   Background:

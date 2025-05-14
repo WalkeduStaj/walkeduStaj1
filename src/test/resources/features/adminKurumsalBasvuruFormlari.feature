@@ -1,4 +1,4 @@
-@JenkinsReport
+@smokeinstructorlogin
 
 Feature: Admin Panel Kurumsal Basvuru Formlarinda Basvuru Goruntuleme ve Tum Basvurulari goruntuleme testi
 

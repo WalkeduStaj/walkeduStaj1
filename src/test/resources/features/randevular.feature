@@ -1,4 +1,4 @@
-@JenkinsReport
+@smokeinstructorlogin
 Feature: Admin / Instructor Paneli Randevularim
 
   Kullanici olarak
