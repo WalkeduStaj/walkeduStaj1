@@ -14,8 +14,9 @@ import org.junit.runner.RunWith;
                 "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"
         },
 
-        tags = "@JenkinsReport",
-        dryRun = false//'dryRun = true' testi çalıştırmaz, eksik step deinitionları bulur.
+
+        tags = "@AdminInstructorlogin",
+        dryRun = false //'dryRun = true' testi çalıştırmaz, eksik step deinitionları bulur.
 
 )
 public class TestRunner {

@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
         "html:target/cucumber-reports/failed/cucumber-pretty.html",
         "json:target/cucumber-reports/failed/cucumber.json"
     },
-    monochrome = true
+    monochrome = false
 )
 public class FailedTestRunner {
 } 
