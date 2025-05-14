@@ -18,6 +18,7 @@ import org.junit.runner.RunWith;
         tags = "@AdminInstructorlogin",
         dryRun = false //'dryRun = true' testi çalıştırmaz, eksik step deinitionları bulur.
 
+
 )
 public class TestRunner {
 } 
