@@ -1,4 +1,4 @@
-@AdminInstructorlogin
+@smokeinstructorlogin
 Feature: Admin / Instructor Paneli Randevularim
 
   Kullanici olarak
@@ -12,7 +12,7 @@ Feature: Admin / Instructor Paneli Randevularim
     Then Kullanici Hesabim butonuna tıklar.
     When Kullanici Randevular seçeneğine tıklar
 
-  @AdminInstructorRandevularımPageGidis
+
   Scenario: randevularrim sayfasına gidiş
     Then Kullanici randevularim basligini gorur.
 

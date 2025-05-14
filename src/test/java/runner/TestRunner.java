@@ -10,8 +10,10 @@ import org.junit.runner.RunWith;
         glue = "steps",
         plugin = {
                 "html:target/cucumber-reports/cucumber-pretty",
-                "json:target/cucumber-reports/CucumberTestReport.json"
+                "json:target/cucumber-reports/CucumberTestReport.json",
+                "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"
         },
+
 
         tags = "@AdminInstructorlogin",
         dryRun = false //'dryRun = true' testi çalıştırmaz, eksik step deinitionları bulur.
