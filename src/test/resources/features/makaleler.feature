@@ -1,4 +1,4 @@
-@AdminInstructorlogin
+@JenkinsReport
 Feature: Admin / Instructor Paneli Makaleler Sayfasi
 
   Kullanici olarak
@@ -12,7 +12,7 @@ Feature: Admin / Instructor Paneli Makaleler Sayfasi
     Then Kullanici Hesabim butonuna tıklar.
     When Kullanici Makaleler seçeneğine tıklar
 
-  @AdminInstructorMakalelereGidis
+
   Scenario: Makaleler sayfasına gidiş
     Then Kullanici makaleler basligini gorur.
 

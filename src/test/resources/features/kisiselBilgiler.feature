@@ -1,4 +1,4 @@
-@profil
+@JenkinsReport
 Feature: Walkedu Instructor Kişisel Bilgiler Formu
 
   Background:
