@@ -1,4 +1,4 @@
-@smokeAdmin
+@smokeinstructorlogin
 Feature: Walkedu Login ve Logout Smoke testleri
 
     #1-Basarılı giriş senaryosu

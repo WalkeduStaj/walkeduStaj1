@@ -11,7 +11,9 @@ import org.junit.runner.RunWith;
     plugin = {
         "pretty",
         "html:target/cucumber-reports/smoke/cucumber-pretty.html",
-        "json:target/cucumber-reports/smoke/cucumber.json"
+        "json:target/cucumber-reports/smoke/cucumber.json",
+            "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"
+
     },
 
     tags = "@smokeinstructorlogin",

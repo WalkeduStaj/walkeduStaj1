@@ -1,4 +1,4 @@
-@smoke
+@smokeinstructorlogin
 Feature: Walkedu Login Yönlendirme ve Doğrulama Testi
   Kullanıcı olarak ana sayfadan giriş yap butonuna tıkladığımda doğru şekilde login sayfasına yönlendirilmek istiyorum.
 

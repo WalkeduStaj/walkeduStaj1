@@ -1,5 +1,5 @@
 
-@JenkinsReport
+@smokeinstructorlogin
 
 Feature: Admin Panel Uzman Arsivinde Uzman goruntuleme testi
 
