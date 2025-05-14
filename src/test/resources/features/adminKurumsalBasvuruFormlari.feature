@@ -37,3 +37,4 @@ Feature: Admin Panel Kurumsal Basvuru Formlarinda Basvuru Goruntuleme ve Tum Bas
     When Kullanici "Incele" butonuna tıklar ve kurum bilgilerini görur
     Then Kullanici "Sirket Basvuru Formu" yazisini gorur
     And Kullanıcı "Hesabım" butonunun üzerine gelir ve "Çıkış" butonuna tıklar
+
