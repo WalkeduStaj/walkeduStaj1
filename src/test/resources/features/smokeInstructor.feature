@@ -1,4 +1,4 @@
-@smokeinstructorlogin
+@smokeinstructor
 Feature: Kullanıcı Login & Logout Olabilme Dogrulama Islemi
 
   Background:
