@@ -15,7 +15,7 @@ import org.junit.runner.RunWith;
         },
 
 
-        tags = "@smokeinstructor",
+        tags = "@smokeinstructor:",
         dryRun = false //'dryRun = true' testi çalıştırmaz, eksik step deinitionları bulur.
 
 
