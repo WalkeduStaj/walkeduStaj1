@@ -1,4 +1,4 @@
-@smokeinstructorlogin
+@kisiselBilgiler
 Feature: Walkedu Instructor Kişisel Bilgiler Formu
 
   Background:

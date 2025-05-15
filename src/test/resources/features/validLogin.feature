@@ -1,5 +1,5 @@
 @smokeinstructorlogin
-nkinsReportFeature: Walkedu Gecerli Login Testi
+Feature: Walkedu Gecerli Login Testi
   Kullanici olarak
   Walkedu sitesine basariyla login olmak istiyorum
 
